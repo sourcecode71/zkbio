@@ -6,3 +6,11 @@ D:\Practice\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.AssemblyInfoInputs.c
 D:\Practice\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.AssemblyInfo.cs
 D:\Practice\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.dll
 D:\Practice\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.pdb
+D:\zk\zkbio\Zkbio.Auth\bin\Release\netcoreapp3.1\Zkbio.Auth.deps.json
+D:\zk\zkbio\Zkbio.Auth\bin\Release\netcoreapp3.1\Zkbio.Auth.dll
+D:\zk\zkbio\Zkbio.Auth\bin\Release\netcoreapp3.1\Zkbio.Auth.pdb
+D:\zk\zkbio\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.csprojAssemblyReference.cache
+D:\zk\zkbio\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.AssemblyInfoInputs.cache
+D:\zk\zkbio\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.AssemblyInfo.cs
+D:\zk\zkbio\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.dll
+D:\zk\zkbio\Zkbio.Auth\obj\Release\netcoreapp3.1\Zkbio.Auth.pdb

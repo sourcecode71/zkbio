@@ -7,6 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zkbio", "zkbio.csproj", "{9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zkbio.Auth", "..\Zkbio.Auth\Zkbio.Auth.csproj", "{96F52101-BCD2-4E04-B634-6E4512198158}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zkbio.Api.Model", "..\Zkbio.Api.Model\Zkbio.Api.Model.csproj", "{C71294B8-6B67-4BEC-8475-845870B4313C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zkbio.Data.Model", "..\Zkbio.Data.Model\Zkbio.Data.Model.csproj", "{6B8322B7-A7E5-4E99-9317-76B01DD0D7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zkbio.Queries", "..\Zkbio.Queries\Zkbio.Queries.csproj", "{0B13F4EC-4526-4392-A607-DCD1C3842C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zkbio.Data.Access", "..\Zkbio.Data.Access\Zkbio.Data.Access.csproj", "{D2A4F373-1D30-4067-B1D5-DCDE47C9D98F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,22 @@ Global
 		{96F52101-BCD2-4E04-B634-6E4512198158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96F52101-BCD2-4E04-B634-6E4512198158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96F52101-BCD2-4E04-B634-6E4512198158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71294B8-6B67-4BEC-8475-845870B4313C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71294B8-6B67-4BEC-8475-845870B4313C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71294B8-6B67-4BEC-8475-845870B4313C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71294B8-6B67-4BEC-8475-845870B4313C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8322B7-A7E5-4E99-9317-76B01DD0D7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8322B7-A7E5-4E99-9317-76B01DD0D7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8322B7-A7E5-4E99-9317-76B01DD0D7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8322B7-A7E5-4E99-9317-76B01DD0D7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B13F4EC-4526-4392-A607-DCD1C3842C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B13F4EC-4526-4392-A607-DCD1C3842C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B13F4EC-4526-4392-A607-DCD1C3842C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B13F4EC-4526-4392-A607-DCD1C3842C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A4F373-1D30-4067-B1D5-DCDE47C9D98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A4F373-1D30-4067-B1D5-DCDE47C9D98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A4F373-1D30-4067-B1D5-DCDE47C9D98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A4F373-1D30-4067-B1D5-DCDE47C9D98F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

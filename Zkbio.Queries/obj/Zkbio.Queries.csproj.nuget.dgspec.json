@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\zk\\zkbio\\Zkbio.Queries\\Zkbio.Queries.csproj": {}
+  },
+  "projects": {
+    "D:\\zk\\zkbio\\Zkbio.Api.Model\\Zkbio.Api.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zk\\zkbio\\Zkbio.Api.Model\\Zkbio.Api.Model.csproj",
+        "projectName": "Zkbio.Api.Model",
+        "projectPath": "D:\\zk\\zkbio\\Zkbio.Api.Model\\Zkbio.Api.Model.csproj",
+        "packagesPath": "C:\\Users\\Mostafiz\\.nuget\\packages\\",
+        "outputPath": "D:\\zk\\zkbio\\Zkbio.Api.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mostafiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zk\\zkbio\\Zkbio.Data.Model\\Zkbio.Data.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zk\\zkbio\\Zkbio.Data.Model\\Zkbio.Data.Model.csproj",
+        "projectName": "Zkbio.Data.Model",
+        "projectPath": "D:\\zk\\zkbio\\Zkbio.Data.Model\\Zkbio.Data.Model.csproj",
+        "packagesPath": "C:\\Users\\Mostafiz\\.nuget\\packages\\",
+        "outputPath": "D:\\zk\\zkbio\\Zkbio.Data.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mostafiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zk\\zkbio\\Zkbio.Queries\\Zkbio.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zk\\zkbio\\Zkbio.Queries\\Zkbio.Queries.csproj",
+        "projectName": "Zkbio.Queries",
+        "projectPath": "D:\\zk\\zkbio\\Zkbio.Queries\\Zkbio.Queries.csproj",
+        "packagesPath": "C:\\Users\\Mostafiz\\.nuget\\packages\\",
+        "outputPath": "D:\\zk\\zkbio\\Zkbio.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mostafiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\zk\\zkbio\\Zkbio.Api.Model\\Zkbio.Api.Model.csproj": {
+                "projectPath": "D:\\zk\\zkbio\\Zkbio.Api.Model\\Zkbio.Api.Model.csproj"
+              },
+              "D:\\zk\\zkbio\\Zkbio.Data.Model\\Zkbio.Data.Model.csproj": {
+                "projectPath": "D:\\zk\\zkbio\\Zkbio.Data.Model\\Zkbio.Data.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

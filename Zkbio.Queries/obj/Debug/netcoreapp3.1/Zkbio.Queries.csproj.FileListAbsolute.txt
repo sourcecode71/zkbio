@@ -1,0 +1,13 @@
+D:\zk\zkbio\Zkbio.Queries\obj\Debug\netcoreapp3.1\Zkbio.Queries.csprojAssemblyReference.cache
+D:\zk\zkbio\Zkbio.Queries\obj\Debug\netcoreapp3.1\Zkbio.Queries.AssemblyInfoInputs.cache
+D:\zk\zkbio\Zkbio.Queries\obj\Debug\netcoreapp3.1\Zkbio.Queries.AssemblyInfo.cs
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Queries.deps.json
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Queries.dll
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Queries.pdb
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Api.Model.dll
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Data.Model.dll
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Api.Model.pdb
+D:\zk\zkbio\Zkbio.Queries\bin\Debug\netcoreapp3.1\Zkbio.Data.Model.pdb
+D:\zk\zkbio\Zkbio.Queries\obj\Debug\netcoreapp3.1\Zkbio.Queries.csproj.CopyComplete
+D:\zk\zkbio\Zkbio.Queries\obj\Debug\netcoreapp3.1\Zkbio.Queries.dll
+D:\zk\zkbio\Zkbio.Queries\obj\Debug\netcoreapp3.1\Zkbio.Queries.pdb

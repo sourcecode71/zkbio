@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zkbio.Api.Model\Zkbio.Api.Model.csproj" />
+    <ProjectReference Include="..\Zkbio.Data.Model\Zkbio.Data.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+D:\zk\zkbio\Zkbio.Api.Model\bin\Release\netcoreapp3.1\Zkbio.Api.Model.deps.json
+D:\zk\zkbio\Zkbio.Api.Model\bin\Release\netcoreapp3.1\Zkbio.Api.Model.dll
+D:\zk\zkbio\Zkbio.Api.Model\bin\Release\netcoreapp3.1\Zkbio.Api.Model.pdb
+D:\zk\zkbio\Zkbio.Api.Model\obj\Release\netcoreapp3.1\Zkbio.Api.Model.AssemblyInfoInputs.cache
+D:\zk\zkbio\Zkbio.Api.Model\obj\Release\netcoreapp3.1\Zkbio.Api.Model.AssemblyInfo.cs
+D:\zk\zkbio\Zkbio.Api.Model\obj\Release\netcoreapp3.1\Zkbio.Api.Model.dll
+D:\zk\zkbio\Zkbio.Api.Model\obj\Release\netcoreapp3.1\Zkbio.Api.Model.pdb
+D:\zk\zkbio\Zkbio.Api.Model\obj\Release\netcoreapp3.1\Zkbio.Api.Model.csprojAssemblyReference.cache

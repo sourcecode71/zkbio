@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zkbio.Queries/1.0.0": {
+        "dependencies": {
+          "Zkbio.Api.Model": "1.0.0",
+          "Zkbio.Data.Model": "1.0.0"
+        },
+        "runtime": {
+          "Zkbio.Queries.dll": {}
+        }
+      },
+      "Zkbio.Api.Model/1.0.0": {
+        "runtime": {
+          "Zkbio.Api.Model.dll": {}
+        }
+      },
+      "Zkbio.Data.Model/1.0.0": {
+        "runtime": {
+          "Zkbio.Data.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zkbio.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zkbio.Api.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zkbio.Data.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

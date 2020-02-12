@@ -1,0 +1,11 @@
+D:\zk\zkbio\Zkbio.Data.Access\obj\Debug\netcoreapp3.1\Zkbio.Data.Access.AssemblyInfoInputs.cache
+D:\zk\zkbio\Zkbio.Data.Access\obj\Debug\netcoreapp3.1\Zkbio.Data.Access.AssemblyInfo.cs
+D:\zk\zkbio\Zkbio.Data.Access\bin\Debug\netcoreapp3.1\Zkbio.Data.Access.deps.json
+D:\zk\zkbio\Zkbio.Data.Access\bin\Debug\netcoreapp3.1\Zkbio.Data.Access.dll
+D:\zk\zkbio\Zkbio.Data.Access\bin\Debug\netcoreapp3.1\Zkbio.Data.Model.dll
+D:\zk\zkbio\Zkbio.Data.Access\bin\Debug\netcoreapp3.1\Zkbio.Data.Model.pdb
+D:\zk\zkbio\Zkbio.Data.Access\obj\Debug\netcoreapp3.1\Zkbio.Data.Access.csprojAssemblyReference.cache
+D:\zk\zkbio\Zkbio.Data.Access\obj\Debug\netcoreapp3.1\Zkbio.Data.Access.csproj.CopyComplete
+D:\zk\zkbio\Zkbio.Data.Access\bin\Debug\netcoreapp3.1\Zkbio.Data.Access.pdb
+D:\zk\zkbio\Zkbio.Data.Access\obj\Debug\netcoreapp3.1\Zkbio.Data.Access.dll
+D:\zk\zkbio\Zkbio.Data.Access\obj\Debug\netcoreapp3.1\Zkbio.Data.Access.pdb
